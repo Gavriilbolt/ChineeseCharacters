@@ -6,16 +6,19 @@
 
 ***Библиотеки для работы с кнопками
 https://github.com/GyverLibs/GyverButton/
+
 https://github.com/GyverLibs/EncButton/
 
 
 ***Работа с дисплеем
 https://github.com/olikraus/u8glib
+
 https://github.com/olikraus/u8g2
 
 
 ***Вспомогательне иснструменты
 File to hexadecimal converter URL: https://tomeko.net/online_tools/file_to_hex.php
+
 Processing URL: https://processing.org/
 
 
